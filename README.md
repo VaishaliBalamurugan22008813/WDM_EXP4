@@ -40,7 +40,9 @@ for group, condition in age_groups.items():
 ```
 ### Output:
 
-![image](https://github.com/user-attachments/assets/f17975b5-aba3-4987-9291-0fdd8964332d)
+![image](https://github.com/user-attachments/assets/1eb04491-9e30-44ca-a977-b60c2d893f0b)
+![image](https://github.com/user-attachments/assets/ddc1538b-885f-4dfe-a4f4-7caab07b2f79)
+
 
 
 ### Visualization:
@@ -66,7 +68,8 @@ plt.show()
 ```
 ### Output:
 
-![image](https://github.com/user-attachments/assets/c33c67cb-cac2-4e68-af0b-ed8e15873517)
+![image](https://github.com/user-attachments/assets/48ad29c0-3fc9-499c-b6cd-b19bdd05cc7a)
+
 
 ### Result:
 
